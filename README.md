@@ -1,4 +1,3 @@
-# DocSearch
 # DocSearch — Semantic Search App (FastAPI)
 
 ## Description

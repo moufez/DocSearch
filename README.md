@@ -62,4 +62,5 @@ Anyone can upload files and start searching immediately without complex setup.
 <img width="1680" height="1050" alt="Capture" src="https://github.com/user-attachments/assets/9c573d6c-89e2-448e-ab15-7903993529f9" />
 
 <img width="1680" height="1050" alt="Capture1" src="https://github.com/user-attachments/assets/c1b5c97a-2af6-45f9-8110-a84c4da041c6" />
+<img width="1680" height="1014" alt="Capture3" src="https://github.com/user-attachments/assets/d7a3dd89-ba3d-41c3-bb46-54fb2f5ea254" />
 

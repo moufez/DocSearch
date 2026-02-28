@@ -52,3 +52,14 @@ No static/ folder or index.html needed — the frontend UI is embedded directly 
 Embeddings are cached on disk to speed up future searches.
 
 Anyone can upload files and start searching immediately without complex setup.
+
+
+
+
+
+
+
+<img width="1680" height="1050" alt="Capture" src="https://github.com/user-attachments/assets/9c573d6c-89e2-448e-ab15-7903993529f9" />
+
+<img width="1680" height="1050" alt="Capture1" src="https://github.com/user-attachments/assets/c1b5c97a-2af6-45f9-8110-a84c4da041c6" />
+
